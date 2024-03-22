@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.imgur.com/JVAenG1.png">
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.imgur.com/K4VD6Aw.png">
 </p>
 
 <p align="center">

@@ -24,6 +24,7 @@
 
 #### World
 
+- Dump Enemies
 - Auto Skip Dialog
 
 #### Visuals

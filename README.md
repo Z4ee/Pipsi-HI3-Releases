@@ -12,7 +12,7 @@
 
 1. Download last release.
 2. Run `Launcher.exe`.
-3. Select `StarRail.exe`.
+3. Select `BH3.exe`.
 4. After opening the game, press `INSERT` to open the GUI.
 
 <h1 align="center">Features</h1>

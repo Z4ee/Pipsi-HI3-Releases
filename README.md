@@ -18,22 +18,30 @@
 <h1 align="center">Features</h1>
 
 #### Player
-
+- Kill Aura
+- God Mode
+- Attack Speed
+- Move Speed
 - Attack Multiplier
 - Noclip
 
 #### World
 
+- Instant Win
 - Dump Enemies
-- Auto Skip Dialog
+- Auto Skip Dialogs
 
 #### Visuals
 
+- Peeking
 - Fov Changer
 
 #### Misc
 
+- Skin Changer
 - Auto Challenge
+- Unload
+- FPS Indicator
 - Load/Save/Reset Config
 
 <h1 align="center">Supported only global/sea game version</h1>

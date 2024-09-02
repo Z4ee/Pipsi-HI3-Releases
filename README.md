@@ -44,4 +44,4 @@
 - FPS Indicator
 - Load/Save/Reset Config
 
-<h1 align="center">Supported only global/sea game version</h1>
+<h1 align="center">Supported only global game version</h1>
